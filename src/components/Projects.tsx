@@ -41,7 +41,7 @@ const projects: Project[] = [
     title: 'Twitter Sentiment Analysis Dashboard',
     description: 'Interactive dashboard for analyzing public sentiment towards tech companies using real-time social media data.',
     image: 'https://images.unsplash.com/photo-1611605698335-8b1569810432?auto=format&fit=crop&q=80',
-    demoLink: 'https://lnkd.in/gZVcAjgh',
+    demoLink: 'https://www.linkedin.com/posts/udhay-krishna-432a06283_nlp-datascience-python-activity-7271127544047759360-Rhi0?utm_source=share&utm_medium=member_desktop',
     features: [
       'Real-time sentiment distribution',
       'Entity-wise sentiment analysis',
@@ -54,7 +54,7 @@ const projects: Project[] = [
     title: 'Bank Marketing Prediction',
     description: 'Data-driven solution built to predict customer subscription behavior for term deposits using bank marketing campaign data.',
     image: 'https://images.unsplash.com/photo-1601597111158-2fceff292cdc?auto=format&fit=crop&q=80',
-    demoLink: 'https://lnkd.in/gjr5rVxM',
+    demoLink: 'https://www.linkedin.com/posts/udhay-krishna-432a06283_machinelearning-datascience-python-activity-7270820864680484867-afGf?utm_source=share&utm_medium=member_desktop',
     features: [
       'Predictive modeling of customer behavior',
       'Comprehensive data preprocessing',
