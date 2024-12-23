@@ -66,7 +66,7 @@ export default function Hero() {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/udhayk7"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-gray-900 text-white hover:bg-gray-800 transition-colors"
