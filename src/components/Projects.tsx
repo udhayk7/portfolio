@@ -13,17 +13,17 @@ interface Project {
 
 const projects: Project[] = [
   {
-    title: 'Healthcare App',
-    description: 'AI-powered healthcare solution designed to improve access to medical services, including features like symptom checking, hospital booking, and telemedicine.',
-    image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80',
-    demoLink: 'https://kerala-healthcare-fipcxqpfv-udhays-projects-6787150c.vercel.app/',
-    features: [
-      'Symptom checker with AI-powered analysis',
-      'Hospital search and appointment booking',
-      'Telemedicine for remote consultations',
-      'Regular health check-ups for rural areas',
-    ],
-    tech: ['React', 'Material UI', 'FastAPI', 'PostgreSQL', 'TensorFlow'],
+    // title: 'Healthcare App',
+    // description: 'AI-powered healthcare solution designed to improve access to medical services, including features like symptom checking, hospital booking, and telemedicine.',
+    // image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80',
+    // demoLink: 'https://kerala-healthcare-fipcxqpfv-udhays-projects-6787150c.vercel.app/',
+    // features: [
+    //   'Symptom checker with AI-powered analysis',
+    //   'Hospital search and appointment booking',
+    //   'Telemedicine for remote consultations',
+    //   'Regular health check-ups for rural areas',
+    // ],
+    // tech: ['React', 'Material UI', 'FastAPI', 'PostgreSQL', 'TensorFlow'],
   },
   {
     title: 'Smart Fluid Container',
